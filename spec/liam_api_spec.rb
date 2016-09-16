@@ -3,7 +3,7 @@ require 'spec_helper'
 require 'unirest'
 
 module LiamApi
-  class Parks
+  class Park
 
     attr_accessor :score, :park, :psa
 

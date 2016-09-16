@@ -1,3 +1,4 @@
+require 'liam_api/version'
 require 'spec_helper'
 require 'unirest'
 

@@ -14,7 +14,6 @@ module LiamApi
 
     def self.all
       parks_array = Unirest.get("https://data.sfgov.org/resource/c86s-zvb2.json").body
-      parks_array
     end
 
   end
